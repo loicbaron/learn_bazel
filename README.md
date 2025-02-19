@@ -1,12 +1,14 @@
 # learn_bazel
 
-## Code Example
-https://github.com/bazelbuild/examples/tree/main/frontend
-
 ## Install Bazel
 ```
 brew install bazel@8
+brew install ibazel
 ```
+
+## Code Example
+https://github.com/bazelbuild/examples/tree/main/frontend
+
 
 ## Monorepo structure
 ```
