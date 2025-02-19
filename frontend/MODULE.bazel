@@ -23,7 +23,6 @@ npm.npm_translate_lock(
     npmrc = "//:.npmrc",
     pnpm_lock = "//:pnpm-lock.yaml",
     public_hoist_packages = {
-        "@next/eslint-plugin-next": ["next.js"],
         "eslint-config-react-app": ["react"],
         "eslint@8.28.0": ["react"],
     },
