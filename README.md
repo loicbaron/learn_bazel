@@ -24,3 +24,13 @@ frontend/
 │── package.json               # Root package.json for dependency management
 │── BUILD.bazel
 ```
+
+## Build
+```
+bazel build //...
+```
+
+## Run React App
+```
+cd frontend/react/ && npm start
+```
