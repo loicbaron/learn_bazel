@@ -25,12 +25,15 @@ frontend/
 │── BUILD.bazel
 ```
 
+
 ## Build
 ```
+cd frontend
 bazel build //...
 ```
 
 ## Run React App
 ```
-cd frontend/react/ && npm start
+cd frontend
+bazel run //react:start
 ```
